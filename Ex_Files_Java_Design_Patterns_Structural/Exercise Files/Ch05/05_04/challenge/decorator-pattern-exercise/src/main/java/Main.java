@@ -4,6 +4,7 @@ public class Main {
     order(new PizzaMargherita());
     order(new PizzaHawaiian());
     order(new PizzaPepperoni());
+    order(new ExtraCheese(new PizzaMargherita()));
   }
 
   public static void order(Pizza pizza) {
