@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa9b389b-03ee-49b0-b647-e200a0b0e989" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/main/java</dir>
+    </dirStrings>
+  </component>
+  <component name="ProjectId" id="1YtxKJmEzeD16Pu5IFCPAPj0H42" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.20775968" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Adapter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Adapter" />
+      <module name="adapter-pattern-exercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="adapter-pattern-exercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeatherWarnings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WeatherWarnings" />
+      <module name="adapter-pattern-exercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeatherWarningsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="adapter-pattern-exercise" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WeatherWarningsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeatherWarningsTest.testChicagoHasWeatherWarningWhenTemperature16" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="adapter-pattern-exercise" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WeatherWarningsTest" />
+      <option name="METHOD_NAME" value="testChicagoHasWeatherWarningWhenTemperature16" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.WeatherWarningsTest" />
+        <item itemvalue="JUnit.WeatherWarningsTest.testChicagoHasWeatherWarningWhenTemperature16" />
+        <item itemvalue="Application.WeatherWarnings" />
+        <item itemvalue="Application.Adapter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa9b389b-03ee-49b0-b647-e200a0b0e989" name="Default Changelist" comment="" />
+      <created>1580110513171</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580110513171</updated>
+      <workItem from="1580110517688" duration="504000" />
+      <workItem from="1580197428169" duration="1217000" />
+      <workItem from="1580198673613" duration="428000" />
+      <workItem from="1580283294081" duration="1755000" />
+      <workItem from="1580557639461" duration="7328000" />
+      <workItem from="1583775628357" duration="204000" />
+      <workItem from="1590044387877" duration="38000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="WeatherWarningsTest_testChicagoHasWeatherWarningWhenTemperature16 - 2020.02.01 at 14h 34m 34s.xml">
+      <configuration name="WeatherWarningsTest.testChicagoHasWeatherWarningWhenTemperature16" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WeatherWarningsTest_testChicagoHasWeatherWarningWhenTemperature16 - 2020.02.01 at 14h 35m 01s.xml">
+      <configuration name="WeatherWarningsTest.testChicagoHasWeatherWarningWhenTemperature16" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WeatherWarningsTest - 2020.02.01 at 14h 43m 13s.xml">
+      <configuration name="WeatherWarningsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WeatherWarningsTest - 2020.02.01 at 14h 44m 00s.xml">
+      <configuration name="WeatherWarningsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WeatherWarningsTest - 2020.02.01 at 14h 45m 06s.xml">
+      <configuration name="WeatherWarningsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WeatherWarningsTest - 2020.02.01 at 14h 47m 17s.xml">
+      <configuration name="WeatherWarningsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WeatherWarningsTest - 2020.02.01 at 14h 48m 06s.xml">
+      <configuration name="WeatherWarningsTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>adapter-pattern-exercise</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
